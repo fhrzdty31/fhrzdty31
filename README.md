@@ -5,8 +5,8 @@
 
 ### Tools :
 <p>
-  <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
   <img src="https://img.shields.io/badge/OS-Ubuntu-orange?&logo=ubuntu" />
+  <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
   <img src="https://img.shields.io/badge/Text%20Editor-Android%20Studio-lightgreen?&logo=android%20studio&logoColor=lightgreen" />
   <img src="https://gpvc.arturio.dev/fhrzdty31" />
 </p>
@@ -14,4 +14,5 @@
 ### Stats :
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=fhrzdty31&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrzdty31&layout=compact&theme=tokyonight%22%20height=200" />
 </p>
