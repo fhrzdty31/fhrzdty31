@@ -18,5 +18,5 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fhrzdty31&theme=tokyonight" />
   <br>
-  <img scr="https://activity-graph.herokuapp.com/graph?username=fhrzdty31&theme=react-dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=fhrzdty31&theme=react-dark" />
 </p>
