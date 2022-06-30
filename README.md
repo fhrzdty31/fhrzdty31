@@ -13,6 +13,8 @@
 
 ### Stats :
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fhrzdty31&show_icons=true&theme=github_dark" height=200 width=500 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrzdty31&layout=compact&theme=tokyonight" height=200 width=500 />
+  <img src="https://github-readme-stats.vercel.app/api?username=fhrzdty31&show_icons=true&theme=github_dark" height=200 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrzdty31&layout=compact&theme=tokyonight" height=200 />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fhrzdty31&theme=tokyonight" />
 </p>
