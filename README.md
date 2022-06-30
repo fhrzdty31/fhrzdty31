@@ -14,9 +14,9 @@
 ### Stats :
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=fhrzdty31&show_icons=true&theme=github_dark" height=200 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrzdty31&layout=compact&theme=tokyonight" height=200 />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fhrzdty31&theme=github_dark" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fhrzdty31&theme=tokyonight" />
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=fhrzdty31&theme=react-dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=fhrzdty31&theme=github_dark" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrzdty31&layout=compact&theme=tokyonight" height=200 />
