@@ -17,4 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrzdty31&layout=compact&theme=tokyonight" height=200 />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fhrzdty31&theme=tokyonight" />
+  <br>
+  <img scr="https://activity-graph.herokuapp.com/graph?username=fhrzdty31&theme=react-dark" />
 </p>
