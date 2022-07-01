@@ -5,9 +5,9 @@
 
 ### Tools :
 <p>
-  <img src="https://img.shields.io/badge/OS-Ubuntu-orange?&logo=ubuntu" />
-  <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
-  <img src="https://img.shields.io/badge/Text%20Editor-Android%20Studio-lightgreen?&logo=android%20studio&logoColor=lightgreen" />
+  <img src="https://img.shields.io/badge/OS-Ubuntu-orange?&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Text%20Editor-Android%20Studio-lightgreen?&logo=android%20studio&logoColor=white" />
   <img src="https://gpvc.arturio.dev/fhrzdty31" />
 </p>
 
