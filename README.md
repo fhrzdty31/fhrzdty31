@@ -7,6 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/OS-Ubuntu-orange?&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-lightblue?&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Text%20Editor-Android%20Studio-lightgreen?&logo=android%20studio&logoColor=white" />
   <img src="https://gpvc.arturio.dev/fhrzdty31" />
 </p>
